@@ -6,7 +6,7 @@
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissement_enseignement_superieur/?&static=false&scrollWheelZoom=false"></iframe>
 
 ## La dernière visualisation des données consiste à determiner la localisation de l'ensemble des établissements d'enseignement superieur avec Flourish et definir toutes les informations se rapportant à l'université( sa date de création, le numéro SIRET etc).
-<div class="flourish-embed flourish-hierarchy » data-src="visualisation/5153460"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<iframe src='https://flo.uri.sh/visualisation/5153460/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;' ></iframe><div style='width:100%!; margin-top:4px!important;text-align:right!important;' ><a class='flourish-credit' href='https://public.flourish.studio/visualisation/5153460/?utm_source=embed&utm_campaign=visualisation/5153460' target='_top' style='text-decoration :none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;' > </a></div>
                                                                                                                                                 
                                                                                                                                                 
                                                                                                                                                 
