@@ -2,75 +2,8 @@
 <iframe title=" Principaux établissement de l'enseignement supérieur" aria-label="Interactive area chart" id="datawrapper-chart-ymLDY" src="https://datawrapper.dwcdn.net/ymLDY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="600"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-## En second lieu nous avons choisi OpendataSoft. Il représente une carte montrant la liste des principaux établissement d'enseignements supérieur. Comme nous pouvons le remarquer les Livres sont représenter selon la localisation de l'établissement d'enseignement. On a choisi cette visualisation parce qu'elle permet d'avoir une vision large par rapport à la représentation que nous voulions avoir.
-
+### En second lieu nous avons choisi OpendataSoft. Il représente une carte montrant la liste des principaux établissement d'enseignements supérieur. Comme nous pouvons le remarquer les Livres sont représenter selon la localisation de l'établissement d'enseignement. On a choisi cette visualisation parce qu'elle permet d'avoir une vision large par rapport à la représentation que nous voulions avoir.
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissement_enseignement_superieur/?&static=false&scrollWheelZoom=false"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
