@@ -5,8 +5,7 @@
 ### En second lieu nous avons choisi OpendataSoft. Il représente une carte montrant la liste des principaux établissement d'enseignements supérieur. Comme nous pouvons le remarquer les Livres sont représenter selon la localisation de l'établissement d'enseignement. On a choisi cette visualisation parce qu'elle permet d'avoir une vision large par rapport à la représentation que nous voulions avoir.
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/etablissement_enseignement_superieur/?&static=false&scrollWheelZoom=false"></iframe>
 
-### Jekyll Themes
-
+### Flourish
 <div class="flourish-embed" data-src="story/747620"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Support or Contact
