@@ -39,6 +39,424 @@
                                                                                                                                                                                                                      
 
 
-### Support or Contact
+### HISTORIQUE MODIFICATIONS DU JEUX DE DONNEES
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "rna",
+    "description": "Remove column rna"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Elément wikidata",
+    "description": "Remove column Elément wikidata"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Identifiant ROR",
+    "description": "Remove column Identifiant ROR"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Elément ROR",
+    "description": "Remove column Elément ROR"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Identifiant GRID",
+    "description": "Remove column Identifiant GRID"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Elément GRID",
+    "description": "Remove column Elément GRID"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Identifiant OrgRef",
+    "description": "Remove column Identifiant OrgRef"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Identifiant ISNI",
+    "description": "Remove column Identifiant ISNI"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Elément ISNI",
+    "description": "Remove column Elément ISNI"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "identifiant_funding_data",
+    "description": "Remove column identifiant_funding_data"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Elément Funding Data",
+    "description": "Remove column Elément Funding Data"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "identifiant_dataesr",
+    "description": "Remove column identifiant_dataesr"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "rattachement_identifiants",
+    "description": "Remove column rattachement_identifiants"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "rattachement",
+    "description": "Remove column rattachement"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "association_identifiants",
+    "description": "Remove column association_identifiants"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "association",
+    "description": "Remove column association"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "texte_de_ref_creation_lib",
+    "description": "Remove column texte_de_ref_creation_lib"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "texte_de_ref_creation",
+    "description": "Remove column texte_de_ref_creation"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "date_fermeture",
+    "description": "Remove column date_fermeture"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "texte_de_ref_fermeture_lib",
+    "description": "Remove column texte_de_ref_fermeture_lib"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "texte_de_ref_fermeture",
+    "description": "Remove column texte_de_ref_fermeture"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "dernier_decret_legifrance",
+    "description": "Remove column dernier_decret_legifrance"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "dernier_decret_legifrance_lib",
+    "description": "Remove column dernier_decret_legifrance_lib"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Commune",
+    "index": 19,
+    "description": "Move column Commune to position 19"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Code unité urbaine",
+    "description": "Remove column Code unité urbaine"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Code département",
+    "description": "Remove column Code département"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Code académie",
+    "description": "Remove column Code académie"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Code région",
+    "description": "Remove column Code région"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_facebook",
+    "description": "Remove column compte_facebook"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_twitter",
+    "description": "Remove column compte_twitter"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_instagram",
+    "description": "Remove column compte_instagram"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_pinterest",
+    "description": "Remove column compte_pinterest"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "flux_rss",
+    "description": "Remove column flux_rss"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_flickr",
+    "description": "Remove column compte_flickr"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_linkedin",
+    "description": "Remove column compte_linkedin"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_viadeo",
+    "description": "Remove column compte_viadeo"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_france_culture",
+    "description": "Remove column compte_france_culture"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_scribd",
+    "description": "Remove column compte_scribd"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_scoopit",
+    "description": "Remove column compte_scoopit"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_tumblr",
+    "description": "Remove column compte_tumblr"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_youtube",
+    "description": "Remove column compte_youtube"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_vimeo",
+    "description": "Remove column compte_vimeo"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_dailymotion",
+    "description": "Remove column compte_dailymotion"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "autres",
+    "description": "Remove column autres"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_gitHub",
+    "description": "Remove column compte_gitHub"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Page Wikipédia en français",
+    "description": "Remove column Page Wikipédia en français"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Page Wikipédia en anglais",
+    "description": "Remove column Page Wikipédia en anglais"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "scanr",
+    "description": "Remove column scanr"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "hal",
+    "description": "Remove column hal"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "mooc",
+    "description": "Remove column mooc"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "article",
+    "description": "Remove column article"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "English name",
+    "description": "Remove column English name"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Site internet en anglais",
+    "description": "Remove column Site internet en anglais"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Site internet en chinois",
+    "description": "Remove column Site internet en chinois"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Site internet en espagnol",
+    "description": "Remove column Site internet en espagnol"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Site internet en allemand",
+    "description": "Remove column Site internet en allemand"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Site internet en italien",
+    "description": "Remove column Site internet en italien"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "universites_fusionnees",
+    "description": "Remove column universites_fusionnees"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "etablissement_experimental",
+    "description": "Remove column etablissement_experimental"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "implantations",
+    "description": "Remove column implantations"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "identifiant_programmes_lolf",
+    "description": "Remove column identifiant_programmes_lolf"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "statut_operateur_lolf",
+    "description": "Remove column statut_operateur_lolf"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "libelle_missions_lolf",
+    "description": "Remove column libelle_missions_lolf"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "libelle_programmes_lolf",
+    "description": "Remove column libelle_programmes_lolf"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "libelle_programme_lolf_chef_de_file",
+    "description": "Remove column libelle_programme_lolf_chef_de_file"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "identifiants_autres_programmes_lolf",
+    "description": "Remove column identifiants_autres_programmes_lolf"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "libelles_autres_programmes_lolf",
+    "description": "Remove column libelles_autres_programmes_lolf"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "identifiant_programme_lolf_chef_de_file",
+    "description": "Remove column identifiant_programme_lolf_chef_de_file"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "libelle_mission_chef_de_file",
+    "description": "Remove column libelle_mission_chef_de_file"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "compte_googleplus",
+    "description": "Remove column compte_googleplus"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "sigle",
+    "description": "Remove column sigle"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "uai_rgp_loi_esr_2013",
+    "description": "Remove column uai_rgp_loi_esr_2013"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "statut_juridique_court",
+    "description": "Remove column statut_juridique_court"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "qualification_court",
+    "description": "Remove column qualification_court"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "Qualification",
+    "index": 34,
+    "description": "Move column Qualification to position 34"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "identifiant_interne",
+    "description": "Remove column identifiant_interne"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "columnName": "identifiant_idref",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "NULL"
+      }
+    ],
+    "description": "Mass edit cells in column identifiant_idref"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Localité",
+    "description": "Remove column Localité"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Lieu dit",
+    "description": "Remove column Lieu dit"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "nom_court",
+    "description": "Remove column nom_court"
+  }
+]
