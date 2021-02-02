@@ -39,7 +39,7 @@
                                                                                                                                                                                                                      
 
 
-### HISTORIQUE MODIFICATIONS DU JEUX DE DONNEES
+### Nous avons ici l' HISTORIQUE MODIFICATIONS que nous avons apportés à notre JEUX DE DONNEES. On a eu supprimer des champs qui étaient vides, deplacer certaines colonnes et faire quelques modifications sur le fichier.
 
 [
   {
